@@ -7,7 +7,7 @@ ccb_model.ipynb复现了周其源，吴冲锋，燕志雄在2009年发表的论�
 
 ccb_7paths.ipynb是本论文模型的主要代码。
 
-下修.ipynb针对可转债下修事件进行研究。
+reset.ipynb针对可转债下修事件进行研究。
 
 cb_BSM.ipynb探究了BS model在不同波动率下的定价效果。
 
